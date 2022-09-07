@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "description": "shopping",
+      "category": "Expense",
+      "transactiondate": "2022-09-09",
+      "amount": "9000"
+    },
+    {
+      "id": 4,
+      "description": "shopping",
+      "category": "Expense",
+      "transactiondate": "2022-09-09",
+      "amount": "9000"
+    },
+    {
+      "id": 5,
+      "description": "grocery",
+      "category": "Expense",
+      "transactiondate": "2022-09-09",
+      "amount": "100"
+    }
+  ]
+}
